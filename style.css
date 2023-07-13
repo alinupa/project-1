@@ -1,0 +1,301 @@
+*{margin:0;padding: 0;outline: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 10px;
+    color:rgb(0, 0, 0);
+}
+.clear{overflow: hidden;}
+.templete{
+    width:1460px;
+    background-color: rgb(253, 203, 212);
+    margin: 0 auto;
+}
+.header{
+    background-color: rgb(255, 236, 239);
+    height: 350px;
+    color:black;
+    padding:80px ;
+
+    line-height: 24px;
+
+
+}
+.text{
+    width: 50%;
+    float: left;
+}
+.text h1{
+    font-size: 47px;
+    line-height: 46px;
+    margin-bottom: 20px;
+    color: rgb(56, 56, 53);
+
+}
+.text p{
+    color: rgb(75, 75, 70);
+    font-size: 11px;
+
+
+}
+
+.text button{
+    background-color: #f18194;
+    color: white;
+    padding: 11px;
+    border: 0;
+    border-radius: 4px;
+    margin-top: 13px;
+    font-size: 11px;
+}
+.image{
+    width: 40%;
+    float: right;
+
+}
+.image img{
+    float:right;
+    height: 431px;
+    width: 439px;
+}
+.featured{
+    height:100px;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 20px;
+    
+}
+.featured h1{
+    text-align: center;
+    font-size: 30px;
+
+}
+.featured p{
+    text-align: center;
+    line-height: 20px;
+    padding-top: 20px;
+    font-size: 8px;
+}
+.flower{
+    padding-left: 200px;
+    width: 100%;
+
+}
+.flowerimage1{
+    width: 20%;
+    float: left;
+    border-top-left-radius: 500px;
+    border-top-right-radius: 500px;
+    background-color: rgb(255, 219, 251);
+    height: 500px;
+    margin-top: 40px;
+    margin-bottom: 100px;
+    margin: 40px;
+
+
+
+}
+.flowerimage2{
+    width: 20%;
+    float: left;
+    border-top-left-radius: 500px;
+    border-top-right-radius: 500px;
+    background-color: rgb(205, 225, 255);
+    height: 500px;
+    margin-top: 40px;
+    margin-bottom: 100px;
+    margin: 40px;
+
+
+
+}
+.flowerimage3{
+    width: 20%;
+    float: left;
+    border-top-left-radius: 500px;
+    border-top-right-radius: 500px;
+    background-color: rgb(198, 230, 198);
+    height: 500px;
+    margin-top: 40px;
+    margin-bottom: 100px;
+    margin: 40px;
+
+
+
+}
+.flowerimage1 img{
+    margin-top: 71px;
+    padding-right: 20px;
+
+}
+.flowerimage2 img{
+    margin-top: 135px;
+
+}
+.flowerimage3 img{
+    margin-top: 29px;
+
+}
+
+.hotdeal{
+    width: 70%;
+    height: 300px;
+    background-color: pink;
+    float: left;
+
+
+
+}
+.hotdeal h1{
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 20px;
+    padding-left: 390px;
+}
+.hotdeal p{
+    text-align: center;
+    line-height: 20px;
+    padding-left: 390px;
+}
+.hotdeal button{
+    background-color: #f18194;
+    color: white;
+    padding: 8px;
+    padding-left: 20px;
+    border-radius: 4px;
+    font-size: 11px;
+    float: right;
+    margin-right: 449px;
+    margin-top: 15px;
+    padding-right: 18px;
+    font-size: 18px;
+    border: 0;
+        
+}
+.hotimg{
+    width: 30%;
+    float: right;
+    height: 300px;
+    background-color: pink;
+}
+.hotimg img{
+    float: right;
+    height: 259px;
+    width: 240px;
+    padding-top: 38px;
+    padding-right: 124px;
+}
+.social{
+    height:220px;
+    width: 80%;
+    text-align: center;
+    line-height: 18px;
+    padding-left: 200px;
+
+}
+.social h1{
+    padding-top: 120px;
+
+    font-size: 30px;
+
+}
+.social p{
+    padding-top: 15px;
+    font-size: 10px;
+
+
+}
+.socialcontent{
+    padding-left: 200px;
+    width: 100%;
+    padding-bottom: 130px;
+}
+.socialimage{
+    width: 20%;
+    float: left;
+    padding-left: 5px;
+    border-radius: 56px;
+}
+.sale{
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+
+
+}
+.saleimg{
+    width: 100%;
+    background-image:url('img/Rectangle 9.png');
+    background-repeat: no-repeat;
+    height: 400px;
+}
+.saleimg h1{
+    text-align: center;
+    margin-top: 80px;
+}
+.saleimg p{
+    font-size: 11px;
+    color:rgb(137, 137, 137) ;
+    text-align: center;
+    margin-top: 16px;
+
+
+}
+.search{
+    width: 70%;
+    float: left;
+
+}
+.search input{
+    padding: 10px;
+    padding-left: 180px;
+    padding-right: 200px;
+    border: 0;
+    border-radius: 5px;
+    text-align: left;
+}
+.sub{
+    width: 20%;
+    float: left;
+    margin-top: -50px;
+    margin-left: 836px;
+}
+.sub input{
+    padding: 10px;
+    background-color: rgb(254, 149, 166);
+    padding-left: 31px;
+    padding-right: 72px;
+    border: 0;
+    border-radius: 5px;
+    text-align: center;
+    width: 20%;
+
+}
+.search{
+    text-align: center;
+    margin-top: 40px;
+    padding: 15px;
+}
+.footer{
+    background-color: rgb(34, 32, 32);
+    height: 270px;
+    color:rgb(255, 255, 255);
+
+    line-height: 16px;
+    width: 100%;
+
+    
+}
+.footer h1{
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 25px;
+    font-size: 34px;
+
+
+}
+.footer p{
+    text-align: center;
+    font-size: 8px;
+}
